@@ -1,0 +1,17 @@
+export 'home/home_screen.dart';
+export 'game/memory_match_screen.dart';
+export 'auth/login_screen.dart';
+export 'auth/register_screen.dart';
+export 'auth/forgot_password_screen.dart';
+export 'auth/reset_password_screen.dart';
+export 'users/users_screen.dart';
+export 'game/student_game_leves_screen.dart';
+export 'game/category_screen.dart';
+export 'students/add_student_screen.dart';
+export 'students/students_screen.dart';
+export 'teachers/teachers_screen.dart';
+export 'students/edit_student_screen.dart';
+export 'teachers/edit_teacher_screen.dart';
+export 'export/export_screen.dart';
+export 'game/student_info.dart';
+export 'game/history_game_screen.dart';
